@@ -1,5 +1,7 @@
 # 스프링부트 시큐리티 + JWT
 
+## [참고 Repo](https://github.com/codingspecialist/Springboot-Security-JWT-Easy)
+
 ## 리엑트 연동 참고
 https://bezkoder.com/spring-boot-react-jwt-auth/
 
